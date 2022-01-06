@@ -6,7 +6,6 @@
 - Run
   ```bash
   git clone https://github.com/rbkpdas/nodejs-express-website.git
-  
   git reset --hard
   git branch
   ```
